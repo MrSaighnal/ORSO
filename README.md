@@ -29,12 +29,18 @@ apt install python3
 pip install beautifulsoap4
 pip install requests
 ```
+## To do
+
+- Implementing Search Engine gathering
+- Finding new sources
+- Removing email address
+
 
 ## Support
 
 Reach out to me.
 
-- Website at <a href="http://mrsaigh@github.io" target="_blank">`mrsaigh@github.io`</a>
+- Website at <a href="http://mrsaigh@github.io" target="_blank">`mrsaigh.github.io`</a>
 - Email `mrsaighnal[AT]protonmail[DOT]com`
 - Insert more social links here.
 
