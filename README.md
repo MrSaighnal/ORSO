@@ -40,8 +40,8 @@ pip install requests
 
 Reach out to me.
 
-- Website at <a href="http://mrsaigh@github.io" target="_blank">`mrsaigh.github.io`</a>
-- Email `mrsaighnal[AT]protonmail[DOT]com`
+- Website at <a href="http://mrsaigh@github.io" target="_blank">`mrsaighnal.github.io`</a>
+- Email `mrsaigh[AT]protonmail[DOT]com`
 - Insert more social links here.
 
 ---
