@@ -10,7 +10,7 @@ ORSO is usefull for pentester and bug hunter, it provides a number of way to att
 
 # Screenshot
 
-![](https://github.com/MrSaighnal/ORSO/blob/master/images/screen.gif)
+![](https://github.com/MrSaighnal/ORSO/blob/master/images/screen.png)
 
 # Example
 
