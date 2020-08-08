@@ -46,6 +46,11 @@ ORSO is usefull for pentester and bug hunter, it provides a number of way to att
 - Finding new sources
 - Removing email address
 
+# DONATION
+
+If you liked my work the best way to tell me thanks is to buy me a coffee.
+
+**BTC `183omAyoCCFkHE7s7dzMJfJZHhR3f8JMam`**
 
 ## Support
 
