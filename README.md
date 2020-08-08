@@ -29,12 +29,20 @@ pip install requests
 
 ORSO is usefull for pentester and bug hunter, it provides a number of way to attack the target.
 
+---
+
+## FAQ
+
+- **I find a lot of domains, but many of them are offline. Why?**
+    - ORSO can reach out the history of a domain, an implementation to verify if a host is up will be implemented soon. I advice to check on archive.org the obtained domain, in order to get more information about your target.
 
 
 
 ## To do
 
 - Implementing Search Engine gathering
+- Check if discovered subdomaina are up
+- Time machine function
 - Finding new sources
 - Removing email address
 
