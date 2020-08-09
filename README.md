@@ -11,6 +11,8 @@ It performs a passive scan mixed to web scraping in order to obtain the informat
 ## Quick start
 
 ```
+git clone https://github.com/MrSaighnal/ORSO
+cd ORSO
 python3 orso.py example.com
 ```
 # Example
@@ -34,7 +36,7 @@ ORSO is usefull for pentester and bug hunter, it provides a number of way to att
 ## FAQ
 
 - **I find a lot of domains, but many of them are offline. Why?**
-    - ORSO can reach out the history of a domain, an implementation to verify if a host is up will be implemented soon. I advice to check on archive.org the obtained domain, in order to get more information about your target.
+    - ORSO can reach out the history of a domain, an implementation to verify if a host is up will be available soon. I advice to check the obtained domains on archive.org, in order to get more information about your target.
 
 
 
