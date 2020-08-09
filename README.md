@@ -44,6 +44,7 @@ ORSO is usefull for pentester and bug hunter, it provides a number of way to att
 
 - Implementing Search Engine gathering
 - Check if discovered subdomaina are up
+- Result exporter
 - Time machine function
 - Finding new sources
 - Removing email address
