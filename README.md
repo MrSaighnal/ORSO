@@ -1,6 +1,6 @@
-# ORSO - Osint Reconnaissance Subdomain Obtainer - OSINT/Information Gathering Tool
+# 🐻 ORSO - Osint Reconnaissance Subdomain Obtainer - OSINT/Information Gathering Tool
 
-ORSO (Osint Reconnaissance Subdomain Obtainer) is a OSINT tool to discover subdomains of a target.
+🐻 ORSO (Osint Reconnaissance Subdomain Obtainer) is a OSINT tool to discover subdomains of a target.
 
 It performs a passive scan mixed to web scraping in order to obtain the information.
 
