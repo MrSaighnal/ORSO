@@ -1,8 +1,6 @@
 # 🐻 ORSO - Osint Reconnaissance Subdomain Obtainer - OSINT/Information Gathering Tool
 
-🐻 ORSO (Osint Reconnaissance Subdomain Obtainer) is a OSINT tool to discover subdomains of a target.
-
-It performs a passive scan mixed to web scraping in order to obtain the information.
+🐻 ORSO (Osint Reconnaissance Subdomain Obtainer) is a OSINT tool to discover subdomains of a target. It is usefull for pentester and bug hunter, it provides a number of way to attack the target. ORSO performs a passive scan mixed to web scraping in order to obtain the information.
 
 # Screenshot
 
@@ -26,10 +24,6 @@ apt install python3
 pip install beautifulsoap4
 pip install requests
 ```
-
-## Why
-
-ORSO is usefull for pentester and bug hunter, it provides a number of way to attack the target.
 
 ---
 
