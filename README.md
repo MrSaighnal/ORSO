@@ -21,8 +21,8 @@ python3 orso.py example.com
 
 ```
 apt install python3
-pip install beautifulsoap4
-pip install requests
+pip3 install beautifulsoap4
+pip3 install requests
 ```
 
 ---
